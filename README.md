@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaseKC
-- 👀 I’m interested in politics, policy research, and data analysis
-- 🌱 I’m currently learning government and political science
+- 👀 I’m interested in politics, public policy research, economics, and data analysis
+- 🌱 I’m currently learning government and economics
 - 💞️ I’m looking to collaborate on data analytics projects
 
 <!---
